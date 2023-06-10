@@ -1,0 +1,222 @@
+{
+	"info": {
+		"_postman_id": "225458db-c0d7-4b62-9d1e-af353797ebbb",
+		"name": "WebApi_WorkShop",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "取得書籍明細",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\"1\"",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44366/api/bookmatain/loadbook",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44366",
+					"path": [
+						"api",
+						"bookmatain",
+						"loadbook"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "刪除書籍",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\"2\"",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44366/api/bookmatain/deletebook",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44366",
+					"path": [
+						"api",
+						"bookmatain",
+						"deletebook"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "取得圖書類別",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44366/api/code/bookstatus",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44366",
+					"path": [
+						"api",
+						"code",
+						"bookstatus"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "取得借閱人資料",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44366/api/member/basicinfo",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44366",
+					"path": [
+						"api",
+						"member",
+						"basicinfo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "取得圖書類別資料",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44366/api/code/bookclass",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44366",
+					"path": [
+						"api",
+						"code",
+						"bookclass"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "新增書籍",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"BookName\":\"Coding365\",\r\n    \"BookClassId\":\"DB\",\r\n    \"BookAuth\":\"NTUT&GSS\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44366/api/bookmatain/addbook",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44366",
+					"path": [
+						"api",
+						"bookmatain",
+						"addbook"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "查詢書籍",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"BookName\":\"SQL\",\r\n    \"BookClassId\":\"\",\r\n    \"BookStatusId\":\"\",\r\n    \"BookKeeperId\":\"\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44366/api/bookmatain/querybook",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44366",
+					"path": [
+						"api",
+						"bookmatain",
+						"querybook"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "修改書籍",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"BookId\":\"2295\",\r\n    \"BookName\":\"Coding365_updated\",\r\n    \"BookClassId\":\"DB\",\r\n    \"BookAuth\":\"NTUT&GSS\",\r\n    \"BookNote\": \"TEST\",\r\n    \"BookPublisher\": \"publisher\",\r\n    \"BookAuthor\": \"text\",\r\n    \"BookBoughtDate\": \"2022/12/12\",\r\n    \"BookStatusId\":\"A\"\r\n\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44366/api/bookmatain/updatebook",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44366",
+					"path": [
+						"api",
+						"bookmatain",
+						"updatebook"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

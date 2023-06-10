@@ -1,0 +1,327 @@
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\BookSystem.dll.config
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\BookSystem.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\BookSystem.pdb
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\csc.exe
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\csc.exe.config
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\csc.rsp
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\csi.exe
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\csi.exe.config
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\csi.rsp
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.AppContext.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Console.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.IO.Compression.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Net.Http.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Net.Sockets.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.ValueTuple.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Xml.XPath.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\vbc.exe
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\vbc.exe.config
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\vbc.rsp
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Antlr3.Runtime.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Dapper.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Owin.Cors.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Owin.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Owin.Security.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Newtonsoft.Json.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Owin.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Net.Http.Formatting.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Cors.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Helpers.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Http.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Http.WebHost.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Mvc.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Optimization.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Razor.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.WebPages.Deployment.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.WebPages.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.WebPages.Razor.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\WebGrease.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Dapper.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Owin.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Owin.Cors.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Owin.Security.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Newtonsoft.Json.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Net.Http.Formatting.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Helpers.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Http.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Http.WebHost.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Mvc.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Optimization.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.Razor.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.WebPages.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.WebPages.Deployment.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\System.Web.WebPages.Razor.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Antlr3.Runtime.pdb
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\zh-Hant\System.Web.Http.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\obj\Debug\BookSystem.csproj.AssemblyReference.cache
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\obj\Debug\BookSystem.csproj.CoreCompileInputs.cache
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\obj\Debug\BookSystem.csproj.CopyComplete
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\obj\Debug\BookSystem.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\BookSystem\BookSystem\obj\Debug\BookSystem.pdb
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\BookSystem.dll.config
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\BookSystem.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\BookSystem.pdb
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\csc.exe
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\csc.exe.config
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\csc.rsp
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\csi.exe
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\csi.exe.config
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\csi.rsp
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.AppContext.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Console.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.IO.Compression.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Net.Http.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Net.Sockets.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.ValueTuple.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Xml.XPath.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\vbc.exe
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\vbc.exe.config
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\vbc.rsp
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\VBCSCompiler.exe
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Antlr3.Runtime.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Dapper.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Owin.Cors.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Owin.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Owin.Security.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Newtonsoft.Json.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Owin.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Net.Http.Formatting.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Cors.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Helpers.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Http.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Http.WebHost.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Mvc.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Optimization.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Razor.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.WebPages.Deployment.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.WebPages.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.WebPages.Razor.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\WebGrease.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Dapper.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Owin.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Owin.Cors.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Owin.Security.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Newtonsoft.Json.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Net.Http.Formatting.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Helpers.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Http.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Http.WebHost.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Mvc.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Optimization.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.Razor.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.WebPages.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.WebPages.Deployment.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\System.Web.WebPages.Razor.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Antlr3.Runtime.pdb
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\zh-Hant\System.Web.Http.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\obj\Debug\BookSystem.csproj.AssemblyReference.cache
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\obj\Debug\BookSystem.csproj.CoreCompileInputs.cache
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\obj\Debug\BookSystem.csproj.CopyComplete
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\obj\Debug\BookSystem.dll
+C:\MyBox\OneDrive\Share Folder\GSS\Coding365\WorkingArea\Backend\BookSystem\obj\Debug\BookSystem.pdb
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\BookSystem.dll.config
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\BookSystem.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\BookSystem.pdb
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\csc.exe
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\csc.exe.config
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\csc.rsp
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\csi.exe
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\csi.exe.config
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\csi.rsp
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.AppContext.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Console.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\vbc.exe
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\vbc.exe.config
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\vbc.rsp
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Antlr3.Runtime.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Dapper.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Owin.Cors.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Owin.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Newtonsoft.Json.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Owin.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Cors.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Helpers.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Http.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Mvc.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Optimization.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Razor.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.WebPages.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\WebGrease.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Dapper.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Owin.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Owin.Cors.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Newtonsoft.Json.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Helpers.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Http.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Mvc.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Optimization.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.Razor.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.WebPages.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Antlr3.Runtime.pdb
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\zh-Hant\System.Web.Http.resources.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\obj\Debug\BookSystem.csproj.AssemblyReference.cache
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\obj\Debug\BookSystem.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\obj\Debug\BookSystem.csproj.CopyComplete
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\obj\Debug\BookSystem.dll
+C:\Users\kenny\Desktop\虎科資工微學分\Workshop\BookSystem-Api\BookSystem\obj\Debug\BookSystem.pdb
